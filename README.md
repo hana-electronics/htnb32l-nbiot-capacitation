@@ -1,4 +1,4 @@
-# HTNB32L - materiais de capacitacao (apostilas e videoaulas)
+# HTNB32L - NBIOT - Materiais de Capacitacao (apostilas e videoaulas)
 
 Este repositorio reune as apostilas em PDF e orienta o acesso as videoaulas do curso de capacitacao do iMCP HTNB32L-XXX (NB-IoT / Qualcomm QCX-212). Serve como acervo offline para consulta rapida durante os estudos.
 
